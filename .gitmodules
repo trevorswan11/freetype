@@ -1,0 +1,3 @@
+[submodule "subprojects/dlg"]
+	path = subprojects/dlg
+	url = https://github.com/trevorswan11/dlg
